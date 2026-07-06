@@ -2,8 +2,7 @@
 
 ## 🧭 Project Overview
 
-### Title:
-Hidden Markov Models and Markov Decision Processes
+### Title: Hidden Markov Models and Markov Decision Processes
 
 ### Purpose
 
